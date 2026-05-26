@@ -30,6 +30,8 @@ https://github.com/herbertfreeze/QSS20-S26/tree/main/public_data
 NAEP Data - is pulled via their Data Service API and a CSV of the pull is also in the data/ folder
 https://www.nationsreportcard.gov/
 
+Merged Panel - CSV of combined two data sources that is used for most of analysis and visualization
+
 **How to Run**
 
 1. Run 01_data_pull first
