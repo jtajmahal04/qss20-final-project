@@ -39,3 +39,21 @@ Merged Panel - CSV of combined two data sources that is used for most of analysi
 3. Can run complete process if needed
 
 **What Figures Show**
+
+*Figure 1: Score Gaps Across Demographic Dimensions*
+
+Every demographic variable pulled from NAEP shows meaningful score gap between binary groups and those gaps widen from 4th to 8th grade.
+
+*Figure 2: State Wealth and Free-Lunch Score Gap*
+
+Wealthier states have larger score gaps between free-lunch eligible and non-eligible students, suggesting higher average income is associated with greater in-state economic stratification in educational outcomes.
+
+*Figure 3: Gender Math Gaps Over Time and Trajectories*
+
+Two figures focused on the same issue. The first shows the male-femal score gap narrowing from 2013-2019. The second shows that both male and female scores declined over this period, but male scores fell faster, explaining the convergence in Figure 3.
+
+*Figure 4: Socioeconomic Predictors of State Math Performance*
+
+OLS regression showing the state's share of college-educated adults is the strongest predictor of NAEP math scores. All other variables held constant.
+
+**End**
