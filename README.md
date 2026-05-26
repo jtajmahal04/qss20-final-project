@@ -12,7 +12,8 @@ Contains 3 notebooks...
 -  01_data_pull.ipynb -- notebook that processes, pulls, and merges the data together
 
 -  02_visualizations.ipynb -- where data is actually transformed into the visualizations and plots I analyze
-complete_process -- combination of the two prior notebooks condensed into a single place
+
+-  complete_pipeline -- combination of the two prior notebooks condensed into a single place
 
 *data/ :*
 
@@ -36,7 +37,7 @@ Merged Panel - CSV of combined two data sources that is used for most of analysi
 
 1. Run 01_data_pull first
 2. Run 02_visuaizations to generate plots
-3. Can run complete process if needed
+3. Can run complete pipeline if needed
 
 **What Figures Show**
 
