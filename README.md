@@ -36,7 +36,7 @@ Merged Panel - CSV of combined two data sources that is used for most of analysi
 **How to Run**
 
 1. Run 01_data_pull first
-2. Run 02_visuaizations to generate plots
+2. Run 02_visualizations to generate plots
 3. Can run complete pipeline if needed
 
 **What Figures Show**
