@@ -5,18 +5,17 @@ State Level Scarcity - ACS - NAEP data examination
 
 **Repository Structure**
 
-_code/ :
-_
+*code/ :*
 Contains 3 notebooks...
 01_data_pull.ipynb -- notebook that processes, pulls, and merges the data together
 02_visualizations.ipynb -- where data is actually transformed into the visualizations and plots I analyze
 complete_process -- combination of the two prior notebooks condensed into a single place
 
-_data/ :
-_location of data described below (ACS + NAEP)
+*data/ :*
+location of data described below (ACS + NAEP)
 
-_output/ :
-_Figures created in 02_visualizations
+*output/ :*
+Figures created in 02_visualizations
 
 **Data Sources**
 
