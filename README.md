@@ -13,7 +13,7 @@ Contains 3 notebooks...
 
 -  02_visualizations.ipynb -- where data is actually transformed into the visualizations and plots I analyze
 
--  complete_pipeline -- combination of the two prior notebooks condensed into a single place
+-  03_complete_pipeline -- combination of the two prior notebooks condensed into a single place
 
 *data/ :*
 
