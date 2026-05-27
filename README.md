@@ -9,9 +9,9 @@ State Level Scarcity - ACS - NAEP data examination
 
 Contains 3 notebooks...
 
--  01_data_pull.ipynb -- notebook that processes, pulls, and merges the data together
+-  01_data_pull.ipynb -- notebook that processes, pulls, and merges the data together - outputs merged data file
 
--  02_visualizations.ipynb -- where data is actually transformed into the visualizations and plots I analyze
+-  02_visualizations.ipynb -- where data is actually transformed into the visualizations and plots I analyze - outputs all visualizations
 
 -  03_complete_pipeline -- combination of the two prior notebooks condensed into a single place
 
