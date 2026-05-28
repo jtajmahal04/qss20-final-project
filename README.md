@@ -9,9 +9,9 @@ State Level Scarcity - ACS - NAEP data examination
 
 Contains 3 notebooks...
 
--  01_data_pull.ipynb -- notebook that processes, pulls, and merges the data together - outputs merged data file
+-  ***01_data_pull.ipynb -- notebook that processes, pulls, and merges the data together - outputs merged data file***
 
--  Takes in:
+-  **Takes in:**
   - ACS data: "data/acs_wmath.csv" (from https://github.com/herbertfreeze/QSS20-S26/tree/main/public_data)
   - NAEP API (nationsreportcard.gov) — requires internet access; no API key needed
 
@@ -26,7 +26,7 @@ Contains 3 notebooks...
   - "data/naep_pulled.csv"
   - "data/merged_panel.csv"
 
--  02_visualizations.ipynb -- where data is actually transformed into the visualizations and plots I analyze - outputs all visualizations
+-  ***02_visualizations.ipynb -- where data is actually transformed into the visualizations and plots I analyze - outputs all visualizations***
 
  - **Takes in:**  
 - "data/merged_panel.csv" (output of "01_data_pull.ipynb")
@@ -39,7 +39,7 @@ Contains 3 notebooks...
   - Figure 5: OLS coefficient plot with standardized betas and 95% CIs — which ACS variables best predict state NAEP scores
 
 
--  03_complete_pipeline.ipynb -- combination of the two prior notebooks condensed into a single place
+-  ***03_complete_pipeline.ipynb -- combination of the two prior notebooks condensed into a single place***
  - **Takes in:**
   - ACS data: data/acs_wmath.csv (from https://github.com/herbertfreeze/QSS20-S26/tree/main/public_data)
   - NAEP API (nationsreportcard.gov) — requires internet access; no API key needed
