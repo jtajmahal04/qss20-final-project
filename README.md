@@ -58,8 +58,7 @@ location of data described below (ACS + NAEP)
 
 *output/ :*
 
-Figures created in 02_visualizations: 
-
+**Figures created in 02_visualizations:**
 Gender_Math_Gap_1.png
 
 Gender_Math_Gap_2.png
