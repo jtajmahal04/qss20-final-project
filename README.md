@@ -84,6 +84,7 @@ Merged Panel - CSV of combined two data sources that is used for most of analysi
 1. Run 01_data_pull first
 2. Run 02_visualizations to generate plots
 3. Can run 03_complete_pipeline if needed
+4. If any issues with rendering use nbviewer.org
 
 **What Figures Show**
 
